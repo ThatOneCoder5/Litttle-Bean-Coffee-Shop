@@ -1,0 +1,8 @@
+    html {
+        background-color: darkgreen;
+    }
+    
+    h1 {
+        border: solid 10px darkolivegreen;
+        border-radius: 20px;
+    }
